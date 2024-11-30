@@ -4,7 +4,7 @@ Examen de certificación – Intento 3
 
 - author: Guillermo Cabrera
 - date: 'Nov 2024'
-- title: Clasificación utilizando XGBoost (Core)
+- title: Examen Nro 3 de Clasificación, utilizando XGBoost y otros modelos.
 - curse: Advance Machine Learning
 - format: '.ipynb', '.py', 'csv'
 
